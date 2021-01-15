@@ -1,9 +1,8 @@
 ## Welcome to Sujin GitHub Pages
 
+
 ### Project's
-
-```markdown
-
+<img data-action="zoom" src='{{ "logo.png" | relative_url }}' alt='absolute'>
 # cadio app
-## simple weather app (react native)
-### naver app 
+# simple weather app (react native)
+# naver app 
